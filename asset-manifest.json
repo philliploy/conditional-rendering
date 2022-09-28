@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conditional-rendering/static/css/main.9bd7a35e.css",
+    "main.js": "/conditional-rendering/static/js/main.09cf4420.js",
+    "index.html": "/conditional-rendering/index.html",
+    "main.9bd7a35e.css.map": "/conditional-rendering/static/css/main.9bd7a35e.css.map",
+    "main.09cf4420.js.map": "/conditional-rendering/static/js/main.09cf4420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.09cf4420.js"
+  ]
+}
